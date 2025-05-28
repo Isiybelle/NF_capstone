@@ -1,12 +1,16 @@
 # Art Imitates Life: An Analysis of AO3
 
 ## Table of Contents
+* [Presentation](#presentation-link)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#acquiring-and-normalizing-the-data)
 * [Problems and Challenges](#problems-and-challenges)
 * [Technologies Used](#technologies-used)
 * [Sources](#data-sources)
+
+## Presentation Link:
+- https://www.youtube.com/watch?v=YL8z7hB5s-s
 
 ## Motivation:
 - The growth of transformative works and the communities that sprout around them have long been of interest to me, an avid reader since I was 12. The effort and dedication put into a medium purely for the sake of adoration and interest makes websites like AO3 a unique platform that not only archives the straightforward works of the community, but the unintentional change of community and paradigms over time, something I have tangentially witnessed myself over the years through interacting with content and growing fandoms. As both a writer and a reader, the data that AO3 has collected and continues to collect presents a hub of information on the nature of fandom and its place in fans’ consciousness – information of which both fascinates and potentially benefits my usage in the future.
